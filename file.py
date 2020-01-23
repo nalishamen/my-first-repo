@@ -6,3 +6,5 @@ Created on Thu Jan 23 14:27:38 2020
 @author: MenaL
 """
 
+def function(x,y):
+    return x+y 
